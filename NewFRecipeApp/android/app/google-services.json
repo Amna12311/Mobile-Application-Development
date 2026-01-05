@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120647109754",
+    "project_id": "newfrecipeapp",
+    "storage_bucket": "newfrecipeapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120647109754:android:290558b0191911f6547fc3",
+        "android_client_info": {
+          "package_name": "com.example.newfrecipeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDiPeLwsoGtlH4qOdku0jSljrMan1bUvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
